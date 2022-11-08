@@ -1,0 +1,35 @@
+.expenses_tab{
+    max-width: 720px;
+     color: white;
+    width: 100%;
+    margin: 5px auto;
+    display: flex;
+    background-color: green;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 8px;
+    
+}
+
+.date_name{
+    display: flex;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.date_name h3:first-child{
+    margin-right: 70px;
+}
+
+.price{
+    border: 1px solid white;
+    height: 32px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
