@@ -19,8 +19,8 @@
     justify-content: center;
 }
 
-.date_name h3:first-child{
-    margin-right: 70px;
+.date_name h3{
+    margin-left: 70px;
 }
 
 .price{

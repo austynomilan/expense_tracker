@@ -1,18 +1,18 @@
 import React from 'react'
 import './Expense.css'
+import ExpenseDate from './ExpenseDate'
 
-function Expense() {
-    const expenseDate = new Date();
-    const expenseTitle = ' Car Insurance'
-    const expenseAmount = ' 274.67'
+function Expense(props) {
+   
+
   return (
-      <div className='expenses_tab'>
+    <div className='expenses_tab'>
       <section className='date_name'>
-              <h3>{ expenseDate.toISOString() }</h3>
-              <h3>{ expenseTitle }</h3>
-    </section>
+        <ExpenseDate date = {props.date} />
+        <h3>{props.title}</h3>
+      </section>
       <section className='price'>
-              <h3> ${ expenseAmount }</h3>
+        <h3> ${props.price}</h3>
       </section>
     </div>
   );
