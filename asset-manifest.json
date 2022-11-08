@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/austynomilan/expense_tracker/static/css/main.073c9b0a.css",
+    "main.js": "/austynomilan/expense_tracker/static/js/main.b5cbec28.js",
+    "static/js/787.afd34582.chunk.js": "/austynomilan/expense_tracker/static/js/787.afd34582.chunk.js",
+    "static/media/logo.svg": "/austynomilan/expense_tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/austynomilan/expense_tracker/index.html",
+    "main.073c9b0a.css.map": "/austynomilan/expense_tracker/static/css/main.073c9b0a.css.map",
+    "main.b5cbec28.js.map": "/austynomilan/expense_tracker/static/js/main.b5cbec28.js.map",
+    "787.afd34582.chunk.js.map": "/austynomilan/expense_tracker/static/js/787.afd34582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b5cbec28.js"
+  ]
+}
